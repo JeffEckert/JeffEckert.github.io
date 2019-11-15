@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "** "# Starting my first Project"**"
-date:       2019-11-15 21:12:28 +0000
+title:      "**  Starting my first Project**"
+date:       2019-11-15 16:12:29 -0500
 permalink:  starting_my_first_project
 ---
 
